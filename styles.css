@@ -13,7 +13,7 @@
   padding: 0;
   box-sizing: border-box;
   list-style: none;
-  font-family: "BD Oxford", cursive;
+  font-family: "Comic Sans MS", cursive;
 }
 
 body {
@@ -25,7 +25,7 @@ body {
 }
 
 h2 {
-  font-family: "BD Oxford", cursive;
+  font-family: "Comic Sans MS", cursive;
   text-transform: uppercase;
   text-align: center;
   margin-bottom: 20px;
